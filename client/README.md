@@ -1,0 +1,4 @@
+- [ ] React
+- [ ] ApolloClient
+- [ ] Parcel
+- [ ] Typescript

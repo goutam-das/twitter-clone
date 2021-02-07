@@ -1,0 +1,5 @@
+- [ ] NodeJs
+- [ ] GraphQL
+- [ ] Prisma
+- [ ] Postgres
+- [ ] Typescript
